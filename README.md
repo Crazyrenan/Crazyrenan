@@ -2,18 +2,18 @@
   <img align="center" src="YOUR_BANNER_IMAGE_URL" alt="Header Banner"/>
 </a>
 
-<h1 align="center">Hi there, I'm [Your Name] 👋</h1>
-<h3 align="center">A passionate [Your Title] from [Your Location]</h3>
+<h1 align="center">Hi there, I'm Jonathan Axl Wibowo 👋</h1>
+<h3 align="center">A passionate Fullstack Developer from Indonesia</h3>
 
 ---
 
 ### 👨‍💻 About Me:
 
-- 🔭 I’m currently working on **[Project Name]**
-- 🌱 I’m currently learning **[Technology/Language]**
-- 💬 Ask me about **[Your Area of Expertise]**
-- 📫 How to reach me: **[your.email@example.com]**
-- 😄 Pronouns: **[He/Him, She/Her, etc.]**
+- 🔭 I’m currently working on a **full-stack application using Laravel and Next.js**
+- 🌱 I’m currently learning **how to build scalable microservices with Go**
+- 💬 Ask me about **PHP, JavaScript, and building robust APIs**
+- 📫 How to reach me: **your.name@email.com**
+- 😄 Pronouns: **He/Him**
 
 ---
 
