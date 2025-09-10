@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://64.media.tumblr.com/e29a8a716c5b96715f21d3f966157f12/c8b375b42a98f1f5-19/s540x810/37456d9df2e245a44ee31b2605c31f40955ae215.gif" alt="Coding Background GIF" width="100%"/>
+  <img src="https://i.pinimg.com/originals/ae/a4/6a/aea46accf7343b27bd0e71eb5357f056.gif" alt="Coding Background GIF" width="100%"/>
 </p>
 
 <h1 align="center">Hello, World! I'm <a href="https://your-portfolio-link.com" target="_blank">Jonathan Axl Wibowo</a> 👋</h1>
@@ -38,7 +38,7 @@ Ready to tackle any challenge with these tools in my belt\!
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vue,angular,nodejs,express,laravel,php,python,go,java,mongodb,mysql,postgres,redis,docker,aws,git,vscode,figma&perline=8" alt="My Skills"/>
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,laravel,php,python,go,java,mongodb,mysql,git,vscode,figma&perline=8" alt="My Skills"/>
   </a>
 </p>
 
@@ -65,3 +65,30 @@ Showcasing my journey and contributions.
 If you have a blog or Medium/Dev.to account, this is a great way to showcase recent content.
 
 ```markdown
+```
+
+---
+
+## 👋 Let's Connect\!
+
+I'm always open to collaborating on interesting projects or discussing new tech. Don't hesitate to reach out\!
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/jonathan-axl-b10567253" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://twitter.com/your-twitter-handle" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+  </a>
+  <a href="https://stackoverflow.com/users/your-stackoverflow-id" target="_blank">
+    <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="Stack Overflow"/>
+  </a>
+  <a href="mailto:Jonathan.axlw@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+</p>
+
+<br>
+<p align="center">
+Made with ❤️ by Jonathan Axl Wibowo
+</p>
