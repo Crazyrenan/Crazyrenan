@@ -38,7 +38,7 @@ Ready to tackle any challenge with these tools in my belt\!
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,laravel,php,python,go,java,mongodb,mysql,git,vscode,figma&perline=8" alt="My Skills"/>
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,laravel,php,python,java,mongodb,mysql,git,vscode,figma&perline=8" alt="My Skills"/>
   </a>
 </p>
 
