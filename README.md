@@ -60,15 +60,6 @@ Showcasing my journey and contributions.
 
 ---
 
-## 🔥 My Latest Blog Posts / Articles (Optional)
-
-If you have a blog or Medium/Dev.to account, this is a great way to showcase recent content.
-
-```markdown
-```
-
----
-
 ## 👋 Let's Connect\!
 
 I'm always open to collaborating on interesting projects or discussing new tech. Don't hesitate to reach out\!
