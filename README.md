@@ -12,7 +12,7 @@
 - 🔭 I’m currently working on a **full-stack application using Laravel and Next.js**
 - 🌱 I’m currently learning **how to build scalable microservices with Go**
 - 💬 Ask me about **PHP, JavaScript, and building robust APIs**
-- 📫 How to reach me: **your.name@email.com**
+- 📫 How to reach me: **Jonathan.axlw@gmail.com@email.com**
 - 😄 Pronouns: **He/Him**
 
 ---
