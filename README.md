@@ -1,5 +1,5 @@
 <a href="https://your-portfolio-link.com">
-  <img align="center" src="YOUR_BANNER_IMAGE_URL" alt="Header Banner"/>
+  <img align="center" src="https://i.pinimg.com/1200x/e4/b3/24/e4b3240bc14bff36c2bc745642d4ad8d.jpg" alt="Header Banner"/>
 </a>
 
 <h1 align="center">Hi there, I'm Jonathan Axl Wibowo 👋</h1>
