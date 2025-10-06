@@ -36,12 +36,6 @@
 
 Ready to tackle any challenge with these tools in my belt\!
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,laravel,php,python,java,mysql,git,vscode,figma&perline=8" alt="My Skills"/>
-  </a>
-</p>
-
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
   </a>
 </p>
