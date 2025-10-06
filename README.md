@@ -30,12 +30,6 @@
 -   📫 You can reach out to me via email at **Jonathan.axlw@gmail.com** or connect on LinkedIn.
 -   😄 Pronouns: He/Him
 
----
-
-## 🛠️ Tech Arsenal & Skills:
-
-Ready to tackle any challenge with these tools in my belt\!
-
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
   </a>
 </p>
