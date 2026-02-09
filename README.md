@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.pinimg.com/1200x/bb/76/14/bb76144b4d3333dfe87f21a82245f56d.jpg" alt="Coding Background GIF" width="100%"/>
+  <img src="https://i.pinimg.com/1200x/f0/09/ce/f009ce76095094bc134e408de3393383.jpg.jpg" alt="Coding Background GIF" width="100%"/>
 </p>
 
 <h1 align="center">Hello, World! I'm <a href="https://your-portfolio-link.com" target="_blank">Jonathan Axl Wibowo</a> 👋</h1>
