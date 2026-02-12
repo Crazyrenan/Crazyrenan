@@ -15,12 +15,3 @@ Previously an **IT Application Developer Intern at PT IMIP**.
   - **Data/AI:** Pandas, Scikit-Learn, Hugging Face
 - 📫 **Contact:** [Your Email] | [Your LinkedIn Link]
 
-## 🛠 Tech Stack
-
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
-![Pest](https://img.shields.io/badge/Pest-000000?style=for-the-badge&logo=pest&logoColor=white)
-
-![Metrics](https://metrics.lecoq.io/Crazyrenan?template=classic&config.timezone=Asia/Jakarta)
