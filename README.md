@@ -13,5 +13,5 @@ Previously an **IT Application Developer Intern at PT IMIP**.
   - **Backend:** Python (FastAPI), Node.js (Express), Laravel
   - **Frontend:** Flutter, React.js, Tailwind CSS
   - **Data/AI:** Pandas, Scikit-Learn, Hugging Face
-- 📫 **Contact:** [Your Email] | [Your LinkedIn Link]
+- 📫 **Contact:** [jonathan.axlw@gmail.com] | [https://www.linkedin.com/in/jonathan-axl-b10567253/]
 
