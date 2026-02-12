@@ -9,9 +9,28 @@ I build secure enterprise applications and data-driven solutions.
 Previously an **IT Application Developer Intern at PT IMIP**.
 
 - 🔭 **Working on:** A Blockchain-integrated Field Service System.
-- 🛠 **Tech Stack:**
-  - **Backend:** Python (FastAPI), Node.js (Express), Laravel
-  - **Frontend:** Flutter, React.js, Tailwind CSS
-  - **Data/AI:** Pandas, Scikit-Learn, Hugging Face
+  ### 💻 Skills & Tools
+  
+  **Backend & Web**
+  <p>
+    <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+    <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
+    <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+    <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" />
+  </p>
+  
+  **Frontend & Mobile**
+  <p>
+    <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+    <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
+    <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
+  </p>
+  
+  **Data Science & AI**
+  <p>
+    <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+    <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" />
+    <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" />
+  </p>
 - 📫 **Contact:** [jonathan.axlw@gmail.com] | [https://www.linkedin.com/in/jonathan-axl-b10567253/]
 
