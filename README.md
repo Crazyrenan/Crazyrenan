@@ -156,21 +156,21 @@ Highlights
 
 <p align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=crazy_renan&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=crazyrenan&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img width="49%" src="https://streak-stats.demolab.com?user=crazy_renan&theme=tokyonight&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=crazy_renan&layout=compact&theme=tokyonight&hide_border=true"/>
+<img width="49%" src="https://streak-stats.demolab.com?user=crazyrenan&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night"/>
+<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=crazyrenan&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=crazyrenan&theme=tokyo-night"/>
 
 </p>
 
