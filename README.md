@@ -270,7 +270,7 @@ Figma
 
 <p align="center">
 
-<img src="https://komarev.com/ghpvc/?username=crazy_renan&color=red&style=flat-square"/>
+<img src="https://komarev.com/ghpvc/?username=crazyrenan&color=red&style=flat-square"/>
 
 </p>
 
