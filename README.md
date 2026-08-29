@@ -26,7 +26,7 @@ My interests include Artificial Intelligence, Enterprise Information Systems, Co
 
 ---
 
-# CURRENT MISSION
+# CURRENTLY WORKING
 
 ```txt
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
@@ -53,7 +53,7 @@ CURRENT OBJECTIVES
 
 ---
 
-# MISSION LOG
+# JOB EXPERIENCES
 
 ## 🏢 PT Indonesia Morowali Industrial Park (IMIP)
 
