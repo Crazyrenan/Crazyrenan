@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="[https://i.pinimg.com/1200x/d3/6c/92/d36c929008fa89892ac5789c4eff6fd2.jpg](https://i.pinimg.com/1200x/fa/55/7b/fa557bbd1b85cce6f1817f29d09b5b10.jpg)" width="100%" alt="Makoto Niijima Banner">
+  <img src="https://i.pinimg.com/1200x/d3/6c/92/d36c929008fa89892ac5789c4eff6fd2.jpg](https://i.pinimg.com/1200x/fa/55/7b/fa557bbd1b85cce6f1817f29d09b5b10.jpg" width="100%" alt="Kaneki Banner">
 </p>
 
 <h1 align="center">JONATHAN AXL WIBOWO</h1>
