@@ -59,6 +59,10 @@ CURRENT OBJECTIVES
 
 **IT Application Developer Intern**
 
+## 🏢 Penelitian (UMN)
+
+**Researching about TBC Classification**
+
 ### Completed Operations
 
 - Enterprise Ticketing System
